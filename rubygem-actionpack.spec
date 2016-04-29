@@ -4,7 +4,7 @@
 #
 Name     : rubygem-actionpack
 Version  : 4.2.3
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/actionpack-4.2.3.gem
 Source0  : https://rubygems.org/downloads/actionpack-4.2.3.gem
 Summary  : No detailed summary available
