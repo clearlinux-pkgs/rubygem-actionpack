@@ -1,17 +1,4 @@
-# rubygem-actionmailer requires version (= 4.2.3)
-# check: https://rubygems.org/gems/actionmailer/versions/4.2.3
-# rubygem-actionview requires version (= 4.2.3)
-# cehck: https://rubygems.org/gems/actionview/versions/4.2.3
-# rubygem-cells requires version (>= 3.0) 
-# check: https://rubygems.org/gems/cells/versions/3.11.3
-# rubygem-kaminari requires version (>=3.0)
-# check: https://rubygems.org/gems/kaminari/versions/0.16.1
-# rubygem-rails requires version (= 4.2.3)
-# check: https://rubygems.org/gems/rails/versions/4.2.3
-# rubygem-railties requires version (= 4.2.3)
-# check: https://rubygems.org/gems/railties/versions/4.2.3
-# rubygem-rspec-rails requires version (< 4.3, >= 3.0)
-# check: https://rubygems.org/gems/rspec-rails/3.3.3
-# rubygem-sprockets-rails requires version (>= 3.0)
-# check: https://rubygems.org/gems/sprockets-rails/versions/2.3.2
-watchurl=https://rubygems.org/gems/actionpack/versions/(4.2.3)
+# File auto-generated with 'Watchfile generator'
+# 2016-07-14 22:13:53.924900
+# {'>=4.0', '=5.0.0', '=4.2.3', '>=4.0.1', 'development', '>=3.0', '>=3.0.0'}
+watchurl=https://rubygems.org/gems/actionpack/versions/(4\.2\.3)
